@@ -1,3 +1,10 @@
 /bin/
 /.project
 /.classpath
+*.class
+*.zip
+*.jar
+*.biglybt
+*.bak
+*.DS_Store
+
